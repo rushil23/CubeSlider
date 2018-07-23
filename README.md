@@ -1,6 +1,10 @@
 # CubeSlider
 CubeSlider is a simple obstacle game created using Unity and C#.
 
+## Installing the Game
+You can play this game by downloading and installing the [setup file](CubeSlider_Setup%20(x86).exe)
+
+## About
 The game has four levels. The difficulty of each level was increased by decreasing the distance between the obstacles and increasing the speed of the game. 
 
 The game UI and Scenes are controlled by buttons and triggers. 
