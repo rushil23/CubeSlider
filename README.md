@@ -1,5 +1,5 @@
 # CubeSlider
-CubeSlider is a simple obstacle game created using Unity and C#.
+*CubeSlider* is a simple obstacle game created using Unity and C#.
 
 ## Installing the Game
 You can play this game by downloading and installing the [setup file](CubeSlider_Setup%20(x86).exe)
